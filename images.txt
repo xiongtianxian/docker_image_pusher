@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 polardbx/polardb-x:latest
+polardbx/polardbx-engine-2.0:latest
