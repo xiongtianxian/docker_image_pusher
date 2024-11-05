@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 polardbx/polardb-x:latest
 polardbx/polardbx-engine-2.0:latest
-rabbitmq
+rabbitmq:3.8.5-management
