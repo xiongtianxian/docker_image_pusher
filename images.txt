@@ -4,8 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-polardbx/polardb-x:latest
-polardbx/polardbx-engine-2.0:latest
-rabbitmq:3.8.5-management
-oceanbase/oceanbase-ce:latest
+#polardbx/polardb-x:latest
+#polardbx/polardbx-engine-2.0:latest
+#rabbitmq:3.8.5-management
+#oceanbase/oceanbase-ce:latest
 openjdk:17
