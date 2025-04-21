@@ -8,4 +8,4 @@
 #polardbx/polardbx-engine-2.0:latest
 #rabbitmq:3.8.5-management
 #oceanbase/oceanbase-ce:latest
-openjdk:17
+openjdk:17-jdk-alpine
