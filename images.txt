@@ -8,4 +8,5 @@
 #polardbx/polardbx-engine-2.0:latest
 #rabbitmq:3.8.5-management
 #oceanbase/oceanbase-ce:latest
-openjdk:17-jdk
+#openjdk:17-jdk
+minio/minio
